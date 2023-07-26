@@ -13,15 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Bruce Wayne",
+      "alt_img": null
     },
     {
       "id": "dc-flash",
@@ -30,14 +23,6 @@
       "alter_ego": "Jay Garrick",
       "first_appearance": "Flash Comics #1",
       "characters": "Jay Garrick, Barry Allen, Wally West, Bart Allen"
-    },
-    {
-      "id": "dc-green",
-      "superhero": "Green Lantern",
-      "publisher": "DC Comics",
-      "alter_ego": "Alan Scott",
-      "first_appearance": "All-American Comics #16",
-      "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
     },
     {
       "id": "dc-arrow",
@@ -166,6 +151,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "ohV_rCH",
+      "superhero": "Strider",
+      "publisher": "DC Comics",
+      "alter_ego": "Fernando",
+      "first_appearance": "Udemy 2015 #1",
+      "characters": "Fernando",
+      "alt_img": "https://th.bing.com/th/id/R.5c3977e036160658802cf8dfef8f1d08?rik=WYK4IPaLeuWy9A&riu=http%3a%2f%2fimg06.deviantart.net%2ff5a1%2fi%2f2013%2f252%2f5%2f6%2fstrider_hiryu_by_ran_zu-d6lmvpl.png&ehk=rx208LC%2fosN%2fvDcYObBucEW3I9K%2fknAOOd5HxdEcY%2b8%3d&risl=1&pid=ImgRaw&r=0"
     }
   ]
 }

@@ -40,8 +40,8 @@ export class HeroesService {
     if( !id ) throw Error( 'Hero id is required' );
     return this.http.delete(`${ this.baseUrl }/heroes/${ id }`)
     .pipe(
+      map( resp => true ),
       catchError( err => of(false) ),
-      map( resp => true )
     );
   }
 }
